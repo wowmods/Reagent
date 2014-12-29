@@ -1,0 +1,63 @@
+local _, FH = ...
+FH.L = {}
+local L = FH.L
+
+L["AH"] = "AH"
+L["AlluringCropNames"] = "Alluring"
+L["Bags"] = "Bags"
+L["Bank"] = "Bank"
+L["Below Normal Tooltip"] = "Below Normal Tooltip"
+L["BurstingCropNames"] = "Bursting"
+L["Crop Scanner"] = "Crop Scanner"
+L["Crop Scanner finished."] = "Crop Scanner finished."
+L["Crop Scanner found:"] = "Crop Scanner found:"
+L["Dropping"] = "Dropping"
+L["Guild Bank"] = "Guild Bank"
+L["Halfhill"] = "Halfhill"
+L["Hide Farmhand entirely during combat."] = "Hide Farmhand entirely during combat."
+L["In Bank"] = "In Bank"
+L["InfestedCropNames"] = "Infested"
+L["Leaving Halfhill."] = "Leaving Halfhill."
+L["Lock tools to prevent them being dropped when you leave the farm."] = "Lock tools to prevent them being dropped when you leave the farm."
+L["Mail"] = "Mail"
+L["Occupied Soil"] = "Occupied Soil"
+L["On Hand"] = "On Hand"
+L["ParchedCropNames"] = "Parched"
+L["Play sounds when crop scanner finishes."] = "Play sounds when crop scanner finishes."
+L["Produces"] = "Produces"
+L["Right of Normal Tooltip"] = "Right of Normal Tooltip"
+L["RuntyCropNames"] = "Runty"
+L["Scan your farm for crops or soil that need attention."] = "Scan your farm for crops or soil that need attention."
+L["Show crop scanner findings in the chat window."] = "Show crop scanner findings in the chat window."
+L["Show Optional Miscellaneous Tools"] = "Show Optional Miscellaneous Tools"
+L["Show Portal Shard icons below the tools buttons."] = "Show Portal Shard icons below the tools buttons."
+L["Show special tooltip for vegetable seeds in merchant window."] = "Show special tooltip for vegetable seeds in merchant window."
+L["Show Vegetable Icon on Seed Bag Buttons"] = "Show Vegetable Icon on Seed Bag Buttons"
+L["Show Vegetable Icon on Seed Buttons"] = "Show Vegetable Icon on Seed Buttons"
+L["SmotheredCropNames"] = "Smothered"
+L["Some crops need attention!"] = "Some crops need attention!"
+L["Stubborn Weed"] = "Stubborn Weed"
+L["Sunsong Ranch"] = "Sunsong Ranch"
+L["TangledCropNames"] = "Tangled"
+L["The crops are looking good!"] = "The crops are looking good!"
+L["The Halfhill Market"] = "The Halfhill Market"
+L["Tilled Soil"] = "Tilled Soil"
+L["Tools are Locked."] = "Tools are Locked."
+L["Unstable Portal Shard"] = "Unstable Portal Shard"
+L["WigglingCropNames"] = "Wiggling"
+L["WildCropNames"] = [=[Wild Enigma Seed
+Wild Green Cabbage
+Wild Jade Squash
+Wild Juicycrunch Carrot
+Wild Magebulb
+Wild Mogu Pumpkin
+Wild Pink Turnip
+Wild Raptorleaf
+Wild Red Blossom Leek
+Wild Scallions
+Wild Snakeroot
+Wild Songbell
+Wild Striped Melon
+Wild White Turnip
+Wild Windshear Cactus
+Wild Witchberries]=]
